@@ -20,28 +20,28 @@ var trivia = {
     q1: 'In how many languages is C-3P0 fluent?',
     q2: 'Who actually shot first?',
     q3: 'How many Dewbacks were in the original 1977 theatrical cut of the first Star Wars movie?',
-    q4: 'How many types of towels does Monica have?',
-    q5: "Who stole Monica's thunder after she got engaged?",
-    q6: 'Who hates Thanksgiving?',
-    q7: "Who thinks they're always the last to find out everything?"
+    q4: 'Which bounty hunter in The Empire Strikes Back is wearing an old costume from a Doctor Who episode?',
+    q5: "Who is Lando Calrissian's co-pilot in Episode VI: Return of the Jedi?",
+    q6: 'What is the name of Boba Fetts ship?',
+    q7: "Where was Luke Skywalker originally headed to pick up power converters?"
   },
   options: {
     q1: ['More than 6 million', 'Spanish and English', 'More than 3 million', 'Three hundred'],
     q2: ['Han Solo', 'Chuck Norris', 'Harrison Ford', 'Greedo'],
     q3: ['5', '2', '1', '3'],
-    q4: ['3', '8', '11', '6'],
-    q5: ['Rachel','Phoebe','Emily','Carol'],
-    q6: ['Joey','Chandler','Rachel','Ross'],
-    q7: ['Ross', 'Phoebe', 'Monica','Chandler']
+    q4: ['Bossk', 'Dumbledore', 'Spock', 'IG-88'],
+    q5: ['L3-37','Jesus','Nien Nunb','Chewbacca'],
+    q6: ['Pinta','Slave I','Slave II','Titanic'],
+    q7: ['Home Depot', 'Tosche Station', 'Lowes','Mos Eisley']
   },
   answers: {
     q1: 'More than 6 million',
     q2: 'Han Solo',
     q3: '2',
-    q4: '11',
-    q5: 'Rachel',
-    q6: 'Chandler',
-    q7: 'Phoebe'
+    q4: 'Bossk',
+    q5: 'Nien Nunb',
+    q6: 'Slave I',
+    q7: 'Tosche Station'
   },
   
   startGame: function(){
