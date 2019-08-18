@@ -17,17 +17,17 @@ var trivia = {
   timerId : '',
   
   questions: {
-    q1: 'Who is actually a chef?',
-    q2: 'What does Joey love to eat?',
-    q3: 'How many times has Ross been divorced?',
+    q1: 'In how many languages is C-3P0 fluent?',
+    q2: 'Who actually shot first?',
+    q3: 'How many Dewbacks were in the original 1977 theatrical cut of the first Star Wars movie?',
     q4: 'How many types of towels does Monica have?',
     q5: "Who stole Monica's thunder after she got engaged?",
     q6: 'Who hates Thanksgiving?',
     q7: "Who thinks they're always the last to find out everything?"
   },
   options: {
-    q1: ['Monica', 'Chandler', 'Rachel', 'Ross'],
-    q2: ['Fish', 'Apples', 'Oranges', 'Sandwhiches'],
+    q1: ['More than 6 million', 'Spanish and English', 'More than 3 million', 'Three hundred'],
+    q2: ['Han Solo', 'Chuck Norris', 'Harrison Ford', 'Greedo'],
     q3: ['5', '2', '1', '3'],
     q4: ['3', '8', '11', '6'],
     q5: ['Rachel','Phoebe','Emily','Carol'],
@@ -35,9 +35,9 @@ var trivia = {
     q7: ['Ross', 'Phoebe', 'Monica','Chandler']
   },
   answers: {
-    q1: 'Monica',
-    q2: 'Sandwhiches',
-    q3: '3',
+    q1: 'More than 6 million',
+    q2: 'Han Solo',
+    q3: '2',
     q4: '11',
     q5: 'Rachel',
     q6: 'Chandler',
