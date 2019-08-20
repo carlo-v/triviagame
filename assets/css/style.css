@@ -1,8 +1,12 @@
 body{
-	background-image: url(/assets/images/background.jpg);
+  background-image: url(../images/background.jpg);
+  min-height: 100%;
 	text-align: center;
 }
 
+.text{
+  color: aliceblue
+}
 .text-muted{
 	color: blue;
 }
